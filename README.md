@@ -102,7 +102,3 @@ You can modify `vertebro.py` to adjust sensitivity:
 ## License
 
 MIT License. See `LICENSE` for details.
-
-```
-
-```
